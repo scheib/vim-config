@@ -19,6 +19,8 @@ set numberwidth=5
 "set columns=105
 " " enne config
 
+set mouse=a             " mouse support in all modes
+set ttymouse=xterm      " allow scrolling in xterm
 set showmode            " display mode of editor
 set showmatch           " matching braces
 set ruler
